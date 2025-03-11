@@ -19,24 +19,26 @@ public class salytchtyr {
         }
 
 
-       /* int zahl = 5;
+        int zahl = 5;
         if (zahl > 5) {
-           System.out.println("positiv");
+            System.out.println("positiv");
         } else if (zahl < 5) {
             System.out.println("negativ");
         } else {
             System.out.println("gleich");
-        }*/
+        }
 
         boolean bizbirgruppadabyz = false;
         boolean bizbirgruppadaemespis = true;
         System.out.println(name + " biz bir gruppadabyz " + bizbirgruppadabyz);
 
-    } boolean day= true;
+    }
+
+    boolean day = true;
 //    if (day) {
 //        System
 
-    }
+}
 
 
 
